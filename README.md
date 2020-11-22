@@ -20,9 +20,9 @@ List of commands:<br/>
 Other files:
 
 .author: Name of the author<br/>
-db.json: All member informations<br/>
-HELP.txt: List all commands<br/>
-FILE.txt: Random content<br/>
+db.json: All members information<br/>
+HELP.txt: List of all commands<br/>
+FILE.txt: Random text<br/>
 
 
 Craft with ❤️ by Aymeric THOMINE.<br/>  
