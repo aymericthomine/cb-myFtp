@@ -3,7 +3,12 @@
 FTP client and server.<br/>
 
 Client: myFtpClient.js<br/>
+Run: node myFtpServer.js <port><br/>
+  
 Server: myFtpServer.js<br/>
+Run: node myFtpClient.js <host> <port><br/>
+Default host: 127.0.0.1<br/>
+  
 
 List of commands:<br/>
 
