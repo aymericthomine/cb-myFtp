@@ -1,0 +1,6 @@
+------------ CONTENT ------------
+
+"Les programmes doivent être faits pour être lus par des gens, et occasionnellement pour être exécutés par des machines."
+― Hal Abelson
+
+---------------------------------
