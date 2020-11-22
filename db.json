@@ -1,0 +1,22 @@
+[
+    {
+        "username": "bill",
+        "password": "gates"
+    },
+    {
+        "username": "elon",
+        "password": "musk"
+    },
+    {
+        "username": "jeff",
+        "password": "bezos"
+    },
+    {
+        "username": "mark",
+        "password": "zuckerberg"
+    },
+    {
+        "username": "steve",
+        "password": "jobs"
+    }
+]
